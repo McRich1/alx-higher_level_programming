@@ -6,6 +6,7 @@ class Square:
     """defines a square with private instance attribute size"""
     def __init__(self, size=0, position=(0, 0)):
         """Constructor.
+
         Args:
             size: Length of the side of a square
             position: position of square
