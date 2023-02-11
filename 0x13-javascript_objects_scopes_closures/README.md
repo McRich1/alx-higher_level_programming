@@ -1,1 +1,1 @@
-# This project is about Java Script Objects, Scope and Closure
+# 0x13. JavaScript - Objects, Scopes and Closures
